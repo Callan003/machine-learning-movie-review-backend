@@ -1,0 +1,254 @@
+{"text": " I love the movie Tenet", "probability": 0.4349301290503421}
+{"text": " I love the movie Tenet", "probability": 0.4349301290503421}
+{"text": " I love the movie Tenet 1", "probability": 0.4349301290503421}
+{"text": "I hate this movie! it sucks", "probability": 0.6317682270812625}
+{"text": "I love Tenet", "probability": 0.439817890884313}
+{"text": " I love Tenet so much", "probability": 0.43348152881880453}
+{"text": " I love Tenet so much!!", "probability": 0.43348152881880453}
+{"text": " I love this movie so much!", "probability": 0.314194773553258}
+{"text": " I love this movie so much!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "this movie sucks!", "probability": 0.658463659146288}
+{"text": "this movie sucks!", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "I do not really enjoy the movie", "probability": 0.5439378362611083}
+{"text": "I do not really enjoy the movie", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "this movie is meh", "probability": 0.5133951702723463}
+{"text": "this movie is meh", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "this movie is meh, but in the end I liked it", "probability": 0.396839493911297}
+{"text": "this movie is meh, but in the end I liked it", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love to hate this movie", "probability": 0.4416052362851961}
+{"text": "I love to hate this movie", "predicted_sentiment": "positive", "is_correct": false}
+{"text": "I love to hate this movie", "probability": 0.4416052362851961}
+{"text": " I really liked the World of Warcraft movie! I loved the murloc scene! Mrrrllll!", "probability": 0.16664564510876356}
+{"text": " I really liked the World of Warcraft movie! I loved the murloc scene! Mrrrllll!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": " this movie was good!", "probability": 0.43523877676170997}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " I loved this movie!", "probability": 0.27346562009849607}
+{"text": " Nice movie!", "probability": 0.45138763205667176}
+{"text": " I love this movie! The joker plays so good!", "probability": 0.26136026058859474}
+{"text": " I love this movie! The joker plays so good!", "probability": 0.26136026058859474}
+{"text": " I love this movie! The joker plays so good!", "probability": 0.26136026058859474}
+{"text": " I like this movie!", "probability": 0.4714104112665618}
+{"text": " I like this movie!", "probability": 0.4714104112665618}
+{"text": " aaaa", "probability": 0.5061739393562165}
+{"text": "love", "probability": 0.439817890884313}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": " aaaa", "probability": 0.5061739393562165}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": "sucks bad", "probability": 0.7496278818847524}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": " love love", "probability": 0.3724590356871331}
+{"text": "bad sucks", "probability": 0.7493638838674062}
+{"text": " aaa", "probability": 0.5178978327071853}
+{"text": "love", "probability": 0.439817890884313}
+{"text": " love", "probability": 0.439817890884313}
+{"text": "bad", "probability": 0.6377230462099501}
+{"text": " aaaa", "probability": 0.5061739393562165}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " ", "probability": 0.5061739393562165}
+{"text": " Love it!", "probability": 0.3671733612141429}
+{"text": "hate it!", "probability": 0.4843883749972463}
+{"text": "hate it! sucks", "probability": 0.6268099774099158}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "love", "probability": 0.439817890884313}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "I love this movie!", "probability": 0.3282964379767018}
+{"text": "this movie sucks!", "probability": 0.658463659146288}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "predicted_sentiment": "", "is_correct": true}
+{"text": "", "predicted_sentiment": "", "is_correct": false}
+{"text": "I like this movie!", "probability": 0.4714104112665618}
+{"text": "I love the movie!", "probability": 0.4349301290503421}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": false}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love the movie!", "predicted_sentiment": "positive", "is_correct": false}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "I really like this movie!", "probability": 0.4267915587772515}
+{"text": "I really like this movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I like it!", "probability": 0.5122973399701252}
+{"text": "I like it!", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "love the movie!", "probability": 0.4349301290503421}
+{"text": "love the movie!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "love the movie!", "probability": 0.4349301290503421}
+{"text": "aaa", "probability": 0.5178978327071853}
+{"text": "aaa", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "lovelovelove", "probability": 0.5061739393562165}
+{"text": "lovelovelove", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "lovelovelove", "probability": 0.5061739393562165}
+{"text": "lovelovelove", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "I love love love", "probability": 0.3097127390455998}
+{"text": "I love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "I love FOrrest Gump! It is nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "I love FOrrest Gump! It is nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "I love FOrrest Gump! It is nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love FOrrest Gump! It is nice!", "probability": 0.31201042429846904}
+{"text": "Very nice!", "probability": 0.39516065323110205}
+{"text": "Very nice!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "the best movie ever! it is my favorite!", "probability": 0.12231174411722967}
+{"text": "the best movie ever! it is my favorite!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "Interesting movie! plot twist after plot twist! very good acting", "probability": 0.5532298250514965}
+{"text": "Interesting movie! plot twist after plot twist! very good acting", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love this movie. The best movie. Love doge!!!", "probability": 0.17320775419804935}
+{"text": "I love this movie. The best movie. Love doge!!!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "I love this movie. The best movie. Love doge!!!", "probability": 0.17320775419804935}
+{"text": "I love this movie. The best movie. Love doge!!!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "Best movie ever!", "probability": 0.3655639323996921}
+{"text": "Best movie ever!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "Very good movie! Emotional! Good acting!", "probability": 0.3300283839050283}
+{"text": "Very good movie! Emotional! Good acting!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "This movie sucks!", "probability": 0.658463659146288}
+{"text": "This movie sucks!", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "This movie sucks!", "probability": 0.658463659146288}
+{"text": "This movie sucks!", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "I love this movie! It has such a sad ending!", "probability": 0.31418124422199867}
+{"text": "It has such a sad ending!", "probability": 0.5334528317899331}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "probability": 0.13347302979064168}
+{"text": "One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.", "probability": 0.25215055696266153}
+{"text": "One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.", "probability": 0.25215055696266153}
+{"text": "One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.", "probability": 0.25215055696266153}
+{"text": "One of the other reviewers has mentioned that after watching just 1 Oz episode you'll be hooked. They are right, as this is exactly what happened with me.<br /><br />The first thing that struck me about Oz was its brutality and unflinching scenes of violence, which set in right from the word GO. Trust me, this is not a show for the faint hearted or timid. This show pulls no punches with regards to drugs, sex or violence. Its is hardcore, in the classic use of the word.<br /><br />It is called OZ as that is the nickname given to the Oswald Maximum Security State Penitentary. It focuses mainly on Emerald City, an experimental section of the prison where all the cells have glass fronts and face inwards, so privacy is not high on the agenda. Em City is home to many..Aryans, Muslims, gangstas, Latinos, Christians, Italians, Irish and more....so scuffles, death stares, dodgy dealings and shady agreements are never far away.<br /><br />I would say the main appeal of the show is due to the fact that it goes where other shows wouldn't dare. Forget pretty pictures painted for mainstream audiences, forget charm, forget romance...OZ doesn't mess around. The first episode I ever saw struck me as so nasty it was surreal, I couldn't say I was ready for it, but as I watched more, I developed a taste for Oz, and got accustomed to the high levels of graphic violence. Not just violence, but injustice (crooked guards who'll be sold out for a nickel, inmates who'll kill on order and get away with it, well mannered, middle class inmates being turned into prison bitches due to their lack of street skills or prison experience) Watching Oz, you may become comfortable with what is uncomfortable viewing....thats if you can get in touch with your darker side.", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "probability": 0.13347302979064168}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "probability": 0.13347302979064168}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "probability": 0.13347302979064168}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "probability": 0.13347302979064168}
+{"text": "Fight Club is one movie that exactly caught the pre-millennial tension. Great performances, stunning visuals and a plot like nothing you've ever seen - one of the films of the year.", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "document.getElementById('thank-you-feedback')", "probability": 0.3901284339639908}
+{"text": "document.getElementById('thank-you-feedback')", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "love it!", "probability": 0.3671733612141429}
+{"text": "love it!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "loved it!", "probability": 0.29939065506312}
+{"text": "loved it!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "the best!", "probability": 0.36442298770201575}
+{"text": "the best!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "favorite!", "probability": 0.38997653910908325}
+{"text": "love it", "probability": 0.3671733612141429}
+{"text": "love it!", "probability": 0.3671733612141429}
+{"text": "meh...I didnt like it", "probability": 0.5132695232163749}
+{"text": "stupid sucks hate", "probability": 0.7584325532229953}
+{"text": "stupid sucks hate sucks sucks", "probability": 0.9008326932292805}
+{"text": "stupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucks", "probability": 0.9885389245756407}
+{"text": "stupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate  stupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks suckssucks sucks", "probability": 0.9999955651370741}
+{"text": "stupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucks", "probability": 0.9999864559869535}
+{"text": "stupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucks", "probability": 0.9987804240988032}
+{"text": "stupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucks", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "", "probability": 0.5061739393562165}
+{"text": "stupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucksstupid sucks hate sucks sucks", "probability": 0.999603885850091}
+{"text": "aaa", "probability": 0.5178978327071853}
+{"text": "asddasdq", "probability": 0.5061739393562165}
+{"text": "a", "probability": 0.5061739393562165}
+{"text": "The best movie ever!", "probability": 0.3029676626454043}
+{"text": "Best movie!", "probability": 0.40770471154707777}
+{"text": "aaaaaa", "probability": 0.5061739393562165}
+{"text": "aaaaa", "probability": 0.5061739393562165}
+{"text": "love it!", "probability": 0.3671733612141429}
+{"text": "love it!", "probability": 0.3671733612141429}
+{"text": "Love this movie!", "probability": 0.3282964379767018}
+{"text": "Yes! I loved it!", "probability": 0.2853602046866749}
+{"text": "Yes this movie is the best!", "probability": 0.34954210523998186}
+{"text": "THE BEST MOVIE EVER!", "probability": 0.3029676626454043}
+{"text": "aaaa", "probability": 0.5061739393562165}
+{"text": "The best movie ever!", "probability": 0.3029676626454043}
+{"text": "the movie is good!", "probability": 0.4330712077897375}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "the best!", "probability": 0.36442298770201575}
+{"text": "aaaaaaaaaaa", "probability": 0.5061739393562165}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "yes! very good!", "probability": 0.35182825250581173}
+{"text": "sucks!", "probability": 0.6351614859033143}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "I like it!", "probability": 0.5122973399701252}
+{"text": "I like it!", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "I like it!", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "I like it!", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "I like it!", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "love love love!", "probability": 0.3097127390455998}
+{"text": "love love love!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "sucks!", "probability": 0.6351614859033143}
+{"text": "sucks!", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "aaaaaaaaaaaaaa", "probability": 0.5061739393562165}
+{"text": "aaaaaaaaaaaaaa", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "lovelove", "probability": 0.5061739393562165}
+{"text": "lovelove", "predicted_sentiment": "negative", "is_correct": true}
+{"text": "lovelove", "probability": 0.5061739393562165}
+{"text": "aaaaaaaaa", "probability": 0.5061739393562165}
+{"text": "aaaaa", "probability": 0.5061739393562165}
+{"text": "dasda", "probability": 0.5061739393562165}
+{"text": "dasda", "predicted_sentiment": "negative", "is_correct": false}
+{"text": "lovelove", "probability": 0.5061739393562165}
+{"text": "aaaaaaa", "probability": 0.5061739393562165}
+{"text": "aaaaaa", "probability": 0.5061739393562165}
+{"text": "asdasd", "probability": 0.5061739393562165}
+{"text": "lovelove", "probability": 0.5061739393562165}
+{"text": "love", "probability": 0.439817890884313}
+{"text": "love", "probability": 0.439817890884313}
+{"text": "aaaaa", "probability": 0.5061739393562165}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "hate hate", "probability": 0.5390571648050466}
+{"text": "lovelove", "probability": 0.5061739393562165}
+{"text": "meh", "probability": 0.5026266880493102}
+{"text": "lovelove", "probability": 0.5061739393562165}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "yes!", "probability": 0.4905517043090112}
+{"text": "yes!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "lovelove", "probability": 0.5061739393562165}
+{"text": "love love", "probability": 0.3724590356871331}
+{"text": "love love love", "probability": 0.3097127390455998}
+{"text": "love love love", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "love love doge", "probability": 0.3724590356871331}
+{"text": "love love doge", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "hate", "probability": 0.5226400831915872}
+{"text": "the best!", "probability": 0.36442298770201575}
+{"text": "the best!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "great movie! one of my favorites!", "probability": 0.19857610215162924}
+{"text": "great movie! one of my favorites!", "predicted_sentiment": "positive", "is_correct": true}
+{"text": "asdsafasf", "probability": 0.5061739393562165}
